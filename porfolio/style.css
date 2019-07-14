@@ -26,5 +26,6 @@ h2 {
 .me {
 	height: 140px;
 	border-radius: 100%;
-	border-style: outset;
+	border-style: solid;
+	border-color: hotpink;
 }
