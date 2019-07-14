@@ -7,5 +7,7 @@ body {
 }
 
 h1 {
-	color: white;
+	color: #ecf542;
+/* I googled the term color picker html and it looks like google has a tool for this now. */
+/* As well, I have now learned how to embed comments in css. I cannot recall the last time I did this. But it must have been a while ago */
 }
