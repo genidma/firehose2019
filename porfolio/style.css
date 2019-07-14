@@ -24,5 +24,6 @@ h2 {
 }
 
 .me {
-	height: 210px;
+	height: 180px;
+	border-radius: 8px;
 }
