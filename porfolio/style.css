@@ -48,5 +48,6 @@ h2 {
 .grey {
 	height: 3px;
 	background-color: #f542d7;
+	border: none;
 
 }
