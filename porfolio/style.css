@@ -4,6 +4,7 @@ body {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+	font-family: sans-serif;
 }
 
 h1 {
@@ -24,10 +25,10 @@ h2 {
 }
 
 .me {
-	height: 140px;
-	border-radius: 100%;
-	border-style: solid;
-	border-color: hotpink;
+	height: 120px;
+	border-radius: 42.666%;
+	border-style: dotted;
+	border-color: yellow;
 	margin-top: 40px
 }
 
